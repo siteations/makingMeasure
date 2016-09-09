@@ -1,0 +1,48 @@
+unitL,state,character,valM,unitC,uL,uC
+acres,united states,superficial,43560,feet2,ac,ft2
+acres,united states,superficial,4840,yard2,ac,yd2
+acres,united states,superficial,60,perch,ac,perch
+acres,united states,superficial,4,rood,ac,rood
+acres,united states,superficial,1,acre,ac,ac
+acres,united states,superficial,0.0015625,mile2,ac,mi2
+bushels,united states,dry capacity,2048,tablespoon,bu,tbsp
+bushels,united states,dry capacity,128,cups,bu,cup
+bushels,united states,dry capacity,64,pints,bu,pt
+bushels,united states,dry capacity,9.3091775,gallons,bu,gal
+bushels,united states,dry capacity,1,bushel,bu,bu
+bushels,united states,dry capacity,0.0277777778,chaldron,bu,ch
+cubic feet,united states,solid,1728,inch3,ft3,in3
+cubic feet,united states,solid,1,foot3,ft3,ft3
+cubic feet,united states,solid,0.1111111111,yard3,ft3,yd3
+gallons,united states,liquid capacity,128,ounce_fluid,gal,oz fl
+gallons,united states,liquid capacity,8,pints,gal,pt
+gallons,united states,liquid capacity,4,quarts,gal,qt
+gallons,united states,liquid capacity,1,gallon,gal,gal
+gallons,united states,liquid capacity,0.0317460317,barrel,gal,bar
+gallons,united states,liquid capacity,0.0158730159,hogshead,gal,hg
+gallons,united states,liquid capacity,0.0079365079,butt,gal,butt
+gallons,united states,liquid capacity,0.003968254,tun,gal,tun
+miles,united states,itinerary,5280,feet,mi,ft
+miles,united states,itinerary,1760,yard,mi,yd
+miles,united states,itinerary,8,furlong,mi,fur
+miles,united states,itinerary,1,mile,mi,mi
+miles,united states,itinerary,0.3333333333,league,mi,lea
+pounds,united states,weight,7000,grain,lb,gr
+pounds,united states,weight,16,ounce,lb,oz
+pounds,united states,weight,1,pound,lb,lb
+pounds,united states,weight,0.0714285714,stone,lb,st
+pounds,united states,weight,0.01,hundredweight short,lb,cwt
+pounds,united states,weight,0.0005,ton short,lb,t
+grains,united states,weight (metals),1,grain,gr,gr
+grains,united states,weight (metals),0.0365714286,drachm,gr,dr
+grains,united states,weight (metals),0.0022857143,ounce,gr,oz
+grains,united states,weight (metals),0.0001428571,pound,gr,lb
+yards,united states,length,36,inch,yd,in
+yards,united states,length,3,feet,yd,ft
+yards,united states,length,1,yard,yd,yd
+yards,united states,length,0.0454545455,chain,yd,ch
+yards,united states,length,0.0005050505,furlong,yd,fur
+inch,united states,length,1,inch,in,in
+inch,united states,length,0.0833333333,foot,in,ft
+feet,united states,length,1,foot,ft,ft
+feet,united states,length,12,inch,ft,in

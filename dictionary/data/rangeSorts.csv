@@ -1,0 +1,1320 @@
+pg,nameU,locality,character,val,unit,base
+20,Chau,China,dry capacity,0.00002,bu,pt
+21,Cochliarion,Ancient Greeks,dry capacity,0.00013,bu,pt
+20,Cheuk,China,dry capacity,0.00022,bu,pt
+19,Centilitre,France,dry capacity,0.00028,bu,pt
+20,Chattae,Calcutta,dry capacity,0.00037,bu,pt
+21,Concha,Ancient Greeks,dry capacity,0.00064,bu,pt
+21,Chundoo,Ceylon,dry capacity,0.00076,bu,pt
+24,Cyathos,Ancient Greeks,dry capacity,0.00128,bu,pt
+24,Cyathus,Ancient Romans,dry capacity,0.00128,bu,pt
+1,Acetabulum,Ancient Romans,dry capacity,0.00191,bu,pt
+20,Chattae _ Grain,Seringapatam,dry capacity,0.00218,bu,pt
+22,Coppo,Milan,dry capacity,0.00234,bu,pt
+25,Decilitre,France,dry capacity,0.00284,bu,pt
+24,Cucciaro,Turin,dry capacity,0.0034,bu,pt
+22,Copet,Lausanne,dry capacity,0.00383,bu,pt
+8,Becher,Carlsruhe,dry capacity,0.00426,bu,pt
+22,Cotyla,Ancient Greeks,dry capacity,0.00765,bu,pt
+8,Bes Or Bessis,Ancient Romans,dry capacity,0.01021,bu,pt
+8,Becher,Vienna,dry capacity,0.01363,bu,pt
+25,Demi-Litre,France,dry capacity,0.01419,bu,pt
+28,Ecklein,Wurtemberg,dry capacity,0.01965,bu,pt
+8,Batzendingli,Solothurn,dry capacity,0.02349,bu,pt
+23,Cuartillo Minimum,Bernicarlo,dry capacity,0.02955,bu,pt
+21,Choinix,Ancient Greeks,dry capacity,0.03062,bu,pt
+28,Dreissinger,Bavaria,dry capacity,0.03287,bu,pt
+32,Emine,Lausanne,dry capacity,0.03831,bu,pt
+32,Emine,Vaud,dry capacity,0.03831,bu,pt
+23,Cuartillo Maximum,Oviedo,dry capacity,0.04456,bu,pt
+1,Achterli,Berne,dry capacity,0.0497,bu,pt
+19,Celemin,Aragon,dry capacity,0.05335,bu,pt
+8,Becher,Brunswic,dry capacity,0.05417,bu,pt
+6,Bambou,Madagascar,dry capacity,0.05676,bu,pt
+8,Becher,Basel,dry capacity,0.06059,bu,pt
+14,Cab Or Kab,Ancient Hebrews,dry capacity,0.06124,bu,pt
+8,Becher,Lucerne,dry capacity,0.06164,bu,pt
+8,Becher,Unterwalden,dry capacity,0.06164,bu,pt
+24,Culah,Sumatra,dry capacity,0.06187,bu,pt
+17,Capicha,Persia,dry capacity,0.07464,bu,pt
+23,Cuartilla,Aragon,dry capacity,0.07701,bu,pt
+22,Coppo,Turin,dry capacity,0.08162,bu,pt
+6,Bambou,Bantam,dry capacity,0.09223,bu,pt
+22,Copello,Bergamo,dry capacity,0.0979,bu,pt
+23,Cuarto,Madeira,dry capacity,0.1129,bu,pt
+3,Ardeb,Gondar,dry capacity,0.11465,bu,pt
+19,Celemin,Valencia,dry capacity,0.12004,bu,pt
+19,Celemin,Seville,dry capacity,0.12833,bu,pt
+19,Celemin,Malaga,dry capacity,0.12932,bu,pt
+1,Achtel,Munich,dry capacity,0.13125,bu,pt
+19,Celemin,Castille,dry capacity,0.13326,bu,pt
+22,Copet,Neufchatel,dry capacity,0.1441,bu,pt
+19,Celemin,Canary Islands,dry capacity,0.14805,bu,pt
+2,Almude,Canary Islands ,dry capacity,0.14807,bu,pt
+22,Cortan,Barcelona,dry capacity,0.17061,bu,pt
+25,Demi-Boisseau 1812-1840,France,dry capacity,0.17736,bu,pt
+19,Celemin,Asturias,dry capacity,0.17768,bu,pt
+2,Adoulie,Bombay,dry capacity,0.20833,bu,pt
+23,Cuartal,Aragon,dry capacity,0.21341,bu,pt
+28,Dreiling,Rhenish Prussia,dry capacity,0.22163,bu,pt
+22,Coupe,Lyons,dry capacity,0.24319,bu,pt
+10,Boisseau Old Measure,Montreuil,dry capacity,0.2461,bu,pt
+10,Boisseau Old Measure,Nantes,dry capacity,0.25824,bu,pt
+24,Cuiller Old Measure,Brussels ,dry capacity,0.27671,bu,pt
+26,Diethaufe,Nurnberg,dry capacity,0.28213,bu,pt
+24,Decalitre,France,dry capacity,0.28378,bu,pt
+28,Drittel,Hanover,dry capacity,0.29428,bu,pt
+9,Boisseau Old Measure,Amboise,dry capacity,0.31244,bu,bu
+3,Ardeb,Massouah,dry capacity,0.33333,bu,bu
+14,Calvia,Belluno,dry capacity,0.33983,bu,bu
+6,Barcella,Balearic Isles,dry capacity,0.3411,bu,bu
+22,Corbula,Sardinia,dry capacity,0.34905,bu,bu
+6,Bacino,Corsica,dry capacity,0.35413,bu,bu
+10,Boisseau Old Measure,France,dry capacity,0.35473,bu,bu
+10,Boisseau Present Measure,Nantes,dry capacity,0.35473,bu,bu
+10,Boisseau Till 1840,Paris,dry capacity,0.35476,bu,bu
+10,Boisseau Old Measure,Paris,dry capacity,0.36915,bu,bu
+18,Carte,Montpellier,dry capacity,0.36915,bu,bu
+3,Alqueire,Lisbon,dry capacity,0.38367,bu,bu
+23,Cuartilla,Madrid,dry capacity,0.38877,bu,bu
+17,Carre Or Carse,Briare,dry capacity,0.40524,bu,bu
+9,Bichet,Strasburg,dry capacity,0.42567,bu,bu
+32,Emine,Neufchatel,dry capacity,0.43232,bu,bu
+8,Bichet,Friburg,dry capacity,0.45311,bu,bu
+6,Barchilla,Benicarlo,dry capacity,0.47297,bu,bu
+6,Barchilla,Valencia,dry capacity,0.48526,bu,bu
+18,Cartel Old Measure ,Mezieres,dry capacity,0.55337,bu,bu
+21,Colagah,Seringapatam,dry capacity,0.55663,bu,bu
+6,Barcella,Alicant,dry capacity,0.5826,bu,bu
+18,Cartel Old Measure Minimum,Belgium,dry capacity,0.59026,bu,bu
+10,Boisseau Old Measure,Rouen,dry capacity,0.64602,bu,bu
+18,Cartel Old Measure ,Rocroi,dry capacity,0.64702,bu,bu
+10,Boisseau _ Oats,Troyes,dry capacity,0.68107,bu,bu
+26,Dimerle,Bucharest,dry capacity,0.6981,bu,bu
+26,Double-Boisseau,France,dry capacity,0.70945,bu,bu
+18,Cartel Old Measure ,Sedan,dry capacity,0.7208,bu,bu
+18,Cartel Old Measure Maximum,Belgium,dry capacity,0.73357,bu,bu
+32,Emine Old Measure Minimum,France,dry capacity,0.73783,bu,bu
+26,Doppelmass,Solothurn,dry capacity,0.75174,bu,bu
+6,Bachel,Patras,dry capacity,0.84945,bu,bu
+24,Cwierzac,Cracow,dry capacity,0.85205,bu,bu
+1,Achtendeel,Dordrecht,dry capacity,0.86198,bu,bu
+3,Alqueire,Bahia,dry capacity,0.86326,bu,bu
+24,Cwierzac,Warsaw,dry capacity,0.9081,bu,bu
+10,Boisseau Old Measure,Chalais,dry capacity,0.92288,bu,bu
+1,Achtendeel,Rotterdam,dry capacity,0.95095,bu,bu
+10,"Boisseau _ Wheat, Old Measure",Rochelle,dry capacity,0.95918,bu,bu
+6,Bacile,Ithaca,dry capacity,0.99999,bu,bu
+21,Chilo,Cerigo,dry capacity,0.99999,bu,bu
+12,Bushel Old Measure Winter,England,dry capacity,1,bu,bu
+12,Bushel Standard,United States,dry capacity,1,bu,bu
+12,Bushel Old Measure ,Ireland,dry capacity,1.0119,bu,bu
+22,Coppa,Ancona,dry capacity,1.01479,bu,bu
+12,Bushel Old Measure _ Coal,England,dry capacity,1.0313,bu,bu
+12,Bushel Imperial,England,dry capacity,1.03152,bu,bu
+8,Bichet,Geneva,dry capacity,1.10192,bu,bu
+4,Artaba,Ancient Egyptians,dry capacity,1.1023,bu,bu
+32,Epha,Ancient Hebrews,dry capacity,1.103,bu,bu
+9,Bichet,Lyons,dry capacity,1.13427,bu,bu
+10,Boisseau From 1812 To 1840,Lyons,dry capacity,1.13427,bu,bu
+3,Alqueire,Rio Janeiro,dry capacity,1.13512,bu,bu
+25,Demi-Minot Old Measure _ Coal,France,dry capacity,1.13744,bu,bu
+1,Achtendeel,Worcum,dry capacity,1.17315,bu,bu
+21,Conque _ Wheat & Soil,Bayonne,dry capacity,1.22095,bu,bu
+12,Bushel Old Measure _ Coal Heaped,Ireland,dry capacity,1.26603,bu,bu
+6,Bacile,Zante,dry capacity,1.27912,bu,bu
+3,Alqueire,Maranham,dry capacity,1.28905,bu,bu
+12,Bushel Old Measure _ Coal Heaped,England,dry capacity,1.309,bu,bu
+18,Carte,Nancy,dry capacity,1.36101,bu,bu
+6,Bacile,Cephalonia,dry capacity,1.39996,bu,bu
+10,Boisseau _ Salt,Rochelle,dry capacity,1.4189,bu,bu
+1,Achana,Ancient Greeks,dry capacity,1.46973,bu,bu
+12,Brent _ Plaster,Berne,dry capacity,1.52078,bu,bu
+8,Bichet,Choiseul,dry capacity,1.53241,bu,bu
+12,Bucket _ Chalk,England,dry capacity,1.5466,bu,bu
+4,Artaba,Ancient Persians,dry capacity,1.56159,bu,bu
+14,Cado,Santa Maura,dry capacity,1.73082,bu,bu
+9,Bisaccia,Sicily,dry capacity,1.94418,bu,bu
+6,Baille _ Coal,Rochelle,dry capacity,2.025,bu,bu
+9,Boisseau Old Measure,Brest,dry capacity,2.03034,bu,bu
+22,Coupe,Geneva,dry capacity,2.20365,bu,bu
+9,Bichet,Lorraine,dry capacity,2.21348,bu,bu
+9,Boisseau Old Measure,Bordeaux,dry capacity,2.21491,bu,bu
+22,Corba,Bologna,dry capacity,2.23166,bu,bu
+1,Achtel _ Wheat,Wurzburg,dry capacity,2.45443,bu,bu
+24,Cuarto,Tortosa,dry capacity,2.52016,bu,bu
+9,Boisseau Old Measure,Avignon,dry capacity,2.65789,bu,bu
+1,Achtel,Frankfort,dry capacity,3.25626,bu,bu
+13,Butte _ Coal,Frankfort,dry capacity,3.43941,bu,bu
+1,Achtel _ Oats,Wurzburg,dry capacity,3.79181,bu,bu
+22,Coom,England,dry capacity,4,bu,bu
+13,Butte _ Lime,Frankfort,dry capacity,4.02826,bu,bu
+10,Boll _ Wheat,Scotland,dry capacity,4.08727,bu,bu
+17,Carga,Candia,dry capacity,4.32311,bu,bu
+13,Butte Coal & Lime,Hesse Cassel,dry capacity,4.33162,bu,bu
+13,Butte _ Lime,Hesse Darmstadt,dry capacity,4.43406,bu,bu
+20,Charge,Marseilles,dry capacity,4.5305,bu,bu
+17,Carga Or Carica _ Oats,Milan,dry capacity,4.66879,bu,bu
+7,Barrel _ Corn,Maryland,dry capacity,5,bu,bu
+17,Carga,Barcelona,dry capacity,5.11818,bu,bu
+14,Cahiz,Aragon,dry capacity,5.12195,bu,bu
+3,Ardeb,Cairo,dry capacity,5.16484,bu,bu
+9,Bichet,Verdun,dry capacity,5.56209,bu,bu
+14,Cahiz,Valencia,dry capacity,5.7613,bu,bu
+20,Charge _ Charcoal,Paris,dry capacity,5.80631,bu,bu
+5,Asnee,Lyons,dry capacity,5.8366,bu,bu
+10,Boll _ Barley,Scotland,dry capacity,5.96258,bu,bu
+8,Bichet,Beaune,dry capacity,6.64045,bu,bu
+18,Carte,Cahora,dry capacity,6.85134,bu,bu
+14,Cahiz,Alicant,dry capacity,6.99149,bu,bu
+9,Bichet,Tournus,dry capacity,7.0945,bu,bu
+5,Asnee,Macon,dry capacity,7.26767,bu,bu
+29,Eimer _ Lime & Charcoal,Wurtemberg,dry capacity,8.34114,bu,bu
+14,Caffiso,Algiers,dry capacity,9.00718,bu,bu
+21,Chomer,Ancient Hebrews,dry capacity,11.023,bu,bu
+22,Cor,Ancient Hebrews,dry capacity,11.023,bu,bu
+14,Candaca,Mysore,dry capacity,11.13333,bu,bu
+15,Candy,Seringapatam,dry capacity,11.15199,bu,bu
+28,Dromt _ Wheat & Rye,Lubec,dry capacity,11.37674,bu,bu
+6,Balde _ Coal,Lisbon,dry capacity,12.7,bu,bu
+28,Dromt _ Wheat & Rye,Rostock,dry capacity,13.24305,bu,bu
+28,Dromt _ Oats,Lubec,dry capacity,13.36036,bu,bu
+32,Emine Maximum,France,dry capacity,13.50992,bu,bu
+28,Dromt _ Oats,Rostock,dry capacity,14.92115,bu,bu
+14,Caffiso,Tunis,dry capacity,15,bu,bu
+28,Dromt Old Measure,Stettin,dry capacity,17.58868,bu,bu
+14,Cahiz,Castille,dry capacity,18.66137,bu,bu
+28,Dromt Legal Measure,Stettin,dry capacity,18.71529,bu,bu
+15,Candy _ Grain,Bombay,dry capacity,25,bu,bu
+20,Chaldron _ Coal,London,dry capacity,36,bu,ch
+23,Coyang Minimum,Sumatra,dry capacity,49.51961,bu,ch
+23,Coyang,Amboyna,dry capacity,55.3371,bu,ch
+17,Carro,Naples,dry capacity,56.32579,bu,ch
+23,Coyang _ Rice,Batavia,dry capacity,62.4316,bu,ch
+20,Chalder,Scotland,dry capacity,65.39627,bu,ch
+20,Chalter,Stettin,dry capacity,84.22364,bu,ch
+23,Coyang,Malacca,dry capacity,90.8096,bu,ch
+23,Coyang,Siam,dry capacity,90.8096,bu,ch
+23,Coyang _ Rice,Bantam,dry capacity,147.5656,bu,ch
+23,Coyang Maximum,Sumatra,dry capacity,149.83584,bu,ch
+1,Achtel,Wurtemberg,dry capacity,0.07861,gal,bu
+1,Achtel,Vienna,dry capacity,0.21814,gal,bu
+25,Decapodon,Ancient Greeks,itinerary,0.0019,mi,ft
+5,Aulos Or Stadium,Ancient Greeks,itinerary,0.1149,mi,mi
+5,Asparez Small,Ancient Armenians,itinerary,0.1342,mi,mi
+32,Estadio,Portugal,itinerary,0.1594,mi,mi
+5,Asparez Great,Ancient Armenians,itinerary,0.1918,mi,mi
+26,Diaulos,Ancient Greeks,itinerary,0.2299,mi,mi
+24,Dam,An-Nam,itinerary,0.5523,mi,mi
+8,Berri,Constantinople,itinerary,1.0358,mi,mi
+26,Dolichos Delphic,Ancient Greeks,itinerary,1.109,mi,mi
+22,Coss,Calcutta,itinerary,1.2273,mi,mi
+26,Dilochos,Ancient Greeks,itinerary,1.3792,mi,mi
+26,Dolichos Olympic,Ancient Greeks,itinerary,1.3792,mi,mi
+26,Dolichos Philetairic Syrian,Ancient Greeks,itinerary,1.5781,mi,mi
+24,Dain,Rangoon,itinerary,2.4306,mi,mi
+22,Coss,Seringapatam,itinerary,3.6458,mi,mi
+25,Derech-Yom Day's Journey,Ancient Hebrews,itinerary,16.954,mi,mi
+5,Atomo,Turin,length,0.0117,in,in
+5,Atomo,Parma,length,0.0124,in,in
+5,Atomo,Milan,length,0.0134,in,in
+25,Decimo,Rome,length,0.0733,in,in
+25,Denaro,Florence,length,0.0956,in,in
+1,Achtel,Hanover,length,0.1198,in,in
+7,Barley-Corn Imaginary,England,length,0.33,in,in
+19,Centimetre,France,length,0.3937,in,in
+26,Dito Since 1803,Italy,length,0.3937,in,in
+26,Doigt Not Used,France,length,0.3937,in,in
+28,Duim Netherlandic,Holland,length,0.3937,in,in
+25,Dedo,Spain,length,0.6849,in,in
+25,Dedo,Portugal,length,0.7218,in,in
+3,Angula,Calcutta,length,0.75,in,in
+26,Digitus,Ancient Romans,length,0.753,in,in
+24,Dactylos,Ancient Greeks,length,0.7586,in,in
+14,Calow Since 1819,Poland,length,0.9449,in,in
+14,Calow Old Measure,Poland,length,0.9771,in,in
+3,Angula,Ancient Hindoos,length,1.0499,in,in
+14,Calow,Cracow,length,1.1694,in,in
+10,Borrel,Travancore,length,1.211,in,in
+21,Condylos,Ancient Greeks,length,1.5172,in,in
+23,Crazia,Tuscany,length,1.913,in,in
+26,Doron,Ancient Greeks,length,3.0343,in,in
+25,Decimetre,France,length,3.9371,in,in
+24,Cwierzac Since 1819,Warsaw,length,5.6695,in,in
+26,Dichas,Ancient Greeks,length,6.0686,in,in
+24,Cwierzac,Cracow,length,6.0728,in,in
+8,Bes Or Bessis,Ancient Romans,length,7.7653,in,in
+20,Chik Surveyors,Canton,length,12.0588,in,in
+20,Chik Architects,Canton,length,12.7093,in,in
+20,Chik Mathematical,Pekin,length,13.125,in,in
+20,Chik Commerical Mean,Canton,length,14.7625,in,in
+32,Etzba,Ancient Hebrews,length,0.01992,yd,ft
+2,Ady,Malabar,length,0.29047,yd,ft
+21,Cobre,China,length,0.39067,yd,ft
+23,Covid,China,length,0.39067,yd,ft
+11,Braccio _ Woolens,Sienna,length,0.41297,yd,ft
+12,Brazetto,Tessino,length,0.43417,yd,ft
+21,Codo,Spain,length,0.46368,yd,ft
+3,Ammah Talmudic,Ancient Hebrews,length,0.47799,yd,ft
+24,Cubitus,Ancient Romans,length,0.48533,yd,ft
+23,Covid,Calcutta,length,0.4891,yd,ft
+11,Braccio,Lodi,length,0.49883,yd,ft
+23,Covid,Siam,length,0.5,yd,ft
+23,Covid Average,English India,length,0.5,yd,ft
+23,Covid,Pondichery,length,0.50012,yd,ft
+23,Covid,Malacca,length,0.50147,yd,ft
+23,Covid,Bombay,length,0.50329,yd,ft
+24,Cubit Pachys Metrois,Ancient Egyptians,length,0.50572,yd,ft
+24,Cubit Royal Persian,Ancient Babylonians,length,0.50572,yd,ft
+23,Covid,Ceylon,length,0.5139,yd,ft
+23,Covid,Madras,length,0.51805,yd,ft
+32,Etto,Sumatra,length,0.52,yd,ft
+23,Covid,Mocha,length,0.52778,yd,ft
+24,Cubit,Masulipatan,length,0.53125,yd,ft
+23,Covado,Morocco,length,0.55141,yd,ft
+31,Elle,Ragusa,length,0.56125,yd,ft
+14,Cadee,Morocco,length,0.56497,yd,ft
+3,Ammah Sanctuary,Ancient Hebrews,length,0.57359,yd,ft
+24,Cubit,Ancient Babylonians,length,0.57888,yd,ft
+24,Cubit Great,Ancient Egyptians,length,0.57888,yd,ft
+11,Braccio,Reggio,length,0.57941,yd,ft
+24,Cubit _ Matting,Surat,length,0.58056,yd,ft
+31,Elle Old Measure,Strasburg,length,0.58864,yd,ft
+11,Braccio Di Legno Surveying,Parma,length,0.59289,yd,ft
+30,Elle,Berne,length,0.5933,yd,ft
+11,Braccio,Basel,length,0.59505,yd,ft
+31,Elle,Solothurn,length,0.59581,yd,ft
+30,Elle,Frankfort,length,0.59856,yd,ft
+31,Elle,Hesse Darmstadt,length,0.59898,yd,ft
+30,Elle,Giessen,length,0.60092,yd,ft
+30,Elle Minimum,Bavaria,length,0.60197,yd,ft
+30,Elle Old Measure,Carlsruhe,length,0.60589,yd,ft
+26,Dra Mearour,Aleppo,length,0.60686,yd,ft
+31,Elle,Neufchatel,length,0.60758,yd,ft
+31,Elle,Mannheim,length,0.61036,yd,ft
+31,Elle,Presburg,length,0.61036,yd,ft
+32,Elle,Wurtemberg,length,0.61675,yd,ft
+32,Elle,Weimar,length,0.61676,yd,ft
+21,Codo Of Ribeira,Spain,length,0.61824,yd,ft
+31,Elle,Leipsic,length,0.61824,yd,ft
+30,Elle,Dresden,length,0.61958,yd,ft
+32,Elle Old Measure,Ulm,length,0.62169,yd,ft
+31,Elle,Hesse Cassel,length,0.62318,yd,ft
+30,Elle,Brunswic,length,0.62416,yd,ft
+2,Alen,Iceland,length,0.62417,yd,ft
+31,Elle,Halle,length,0.62467,yd,ft
+31,Elle,Holstein,length,0.62663,yd,ft
+31,Elle _ Silk,Hamburg,length,0.62663,yd,ft
+31,Elle,Mecklenburg,length,0.62664,yd,ft
+30,Elle Of Hamburg,Altona,length,0.62664,yd,ft
+30,Elle,Coblentz,length,0.62689,yd,ft
+30,Elle,Giessen,length,0.62689,yd,ft
+3,Arn,Dantzic,length,0.6275,yd,ft
+30,Elle Old Measure,Dantzic,length,0.6275,yd,ft
+31,Elle,Konigsberg,length,0.62862,yd,ft
+31,Elle,Gotha,length,0.6291,yd,ft
+30,Elle Old Measure,Cologne,length,0.6291,yd,ft
+31,Elle,Lubec,length,0.62972,yd,ft
+31,Elle,Silesia Prussian,length,0.62983,yd,ft
+30,Elle Of Silesia,Breslau,length,0.62983,yd,ft
+11,Braccio,Modena,length,0.6317,yd,ft
+31,Elle,Oldenburg,length,0.63206,yd,ft
+31,Elle,Rostock,length,0.63254,yd,ft
+31,Elle,Silesia Austrian,length,0.63254,yd,ft
+31,Elle,Lippe,length,0.63324,yd,ft
+11,Braccio,Genoa,length,0.63564,yd,ft
+11,Braccio,Florence,length,0.63762,yd,ft
+11,Braccio,Leghorn,length,0.63825,yd,ft
+11,Braccio Di Panno Woolens,Pisa,length,0.63825,yd,ft
+31,Elle,Hanover,length,0.63867,yd,ft
+11,Braccio Old Measure,Milan,length,0.64142,yd,ft
+30,Elle,Coburg,length,0.64142,yd,ft
+11,Braccio _ Silk,Parma,length,0.64306,yd,ft
+30,Elle,Bremen,length,0.64382,yd,ft
+30,Elle Old Measure,Dusseldorf,length,0.64586,yd,ft
+2,Aln,Stockholm,length,0.64763,yd,ft
+30,Elle,Augsburg,length,0.6478,yd,ft
+29,Elle,Aarau,length,0.64948,yd,ft
+30,Elle,Bohemia,length,0.64962,yd,ft
+31,Elle Of Bohemia,Prague,length,0.64962,yd,ft
+11,Braccio,Cremona,length,0.65061,yd,ft
+11,Braccio,Lucca,length,0.65082,yd,ft
+31,Elle,Schaffhausen,length,0.65126,yd,ft
+31,Elle,Schweitz,length,0.65617,yd,ft
+30,Elle Legal,Baden,length,0.65617,yd,ft
+32,Elle,Vaud,length,0.65629,yd,ft
+32,Elle,Zurich,length,0.65629,yd,ft
+11,Braccio _ Linens,Sienna,length,0.65647,yd,ft
+30,Elle Mercers,Augsburg,length,0.66657,yd,ft
+30,Elle,Courland,length,0.66781,yd,ft
+31,Elle,South Gall,length,0.66854,yd,ft
+30,Elle _ Woollens,Appenzell,length,0.67375,yd,ft
+31,Elle _ Woollens,Thurgau,length,0.67375,yd,ft
+32,Elle,Transylvania,length,0.68139,yd,ft
+15,Canna Woodland,Carrara,length,0.68308,yd,ft
+2,Alen,Copenhagen,length,0.68647,yd,ft
+5,Aune,Lucerne,length,0.68647,yd,ft
+31,Elle,Lucerne,length,0.68648,yd,ft
+11,Braccio _ Silk,Treviso,length,0.69336,yd,ft
+11,Braccio _ Silk,Ferrara,length,0.69378,yd,ft
+30,Elle,Anhalt Coethen,length,0.69544,yd,ft
+11,Braccio Weavers,Rome,length,0.69556,yd,ft
+31,Elle,Osnabruck,length,0.69817,yd,ft
+12,Braccio _ Silk,Venice,length,0.6985,yd,ft
+5,Aune Old Measure,Lorraine,length,0.69939,yd,ft
+11,Braccio _ Silk,Brescia,length,0.69992,yd,ft
+11,Braccio _ Woolens,Parma,length,0.69992,yd,ft
+11,Braccio,Ancona,length,0.7037,yd,ft
+11,Braccio _ Silk,Ionian Isles,length,0.70483,yd,ft
+11,Braccio,Bologna,length,0.70561,yd,ft
+25,Derah,Cairo,length,0.708,yd,ft
+27,Dra Stambouli,Aleppo,length,0.708,yd,ft
+31,Elle,Pomerania,length,0.71175,yd,ft
+23,Covado,Rio Janeiro,length,0.71328,yd,ft
+23,Covado,Lisbon,length,0.71717,yd,ft
+11,Braccio,Bergamo,length,0.71759,yd,ft
+31,Elle,Nurnberg,length,0.71786,yd,ft
+32,Endesi _ Cloths,Bucharest,length,0.72433,yd,ft
+30,Elle Mean Of 36,Bavaria,length,0.72553,yd,ft
+30,Elle,Frankfort,length,0.72556,yd,ft
+31,Elle,Gueldrea,length,0.72561,yd,ft
+30,Elle Legal,Berlin,length,0.72934,yd,ft
+30,Elle Legal,Dantzic,length,0.72934,yd,ft
+30,Elle Of Prussia,Breslau,length,0.72934,yd,ft
+30,Elle Old Measure,Berlin,length,0.73022,yd,ft
+29,Elle,Aix La Chappelle,length,0.73135,yd,ft
+11,Braccio _ Woolens,Ferrara,length,0.73667,yd,ft
+11,Braccio _ Woolens,Brescia,length,0.73711,yd,ft
+11,Braccio,Placentia,length,0.73819,yd,ft
+11,Braccio _ Woolens,Treviso,length,0.73931,yd,ft
+23,Covado,Goa,length,0.74436,yd,ft
+29,El,Dordrecht,length,0.74728,yd,ft
+12,Braccio _ Woolens,Venice,length,0.74729,yd,ft
+29,El Old Measure,Nimeguen,length,0.74753,yd,ft
+30,Elle _ Cloth,Antwerp,length,0.74848,yd,ft
+30,Elle Old Measure,Dusseldorf,length,0.74936,yd,ft
+23,Covid,Java,length,0.75,yd,ft
+24,Cubit,Batavia,length,0.75,yd,ft
+32,Endrasi,Constantinople,length,0.75167,yd,ft
+29,El Old Measure,Amsterdam,length,0.75219,yd,ft
+5,Aune,Mechlin,length,0.7535,yd,ft
+29,El,Zealand,length,0.75492,yd,ft
+11,Braccio _ Woolens,Ionian Isles,length,0.75517,yd,ft
+30,Elle Of Brabant,Altona,length,0.75614,yd,ft
+31,Elle _ Woollens,Hamburg,length,0.75617,yd,ft
+29,El,Bergen-Op-Zoom,length,0.75739,yd,ft
+29,El,Breda,length,0.75739,yd,ft
+29,El,Groningen,length,0.75822,yd,ft
+29,El Of Brabant,Amsterdam,length,0.75931,yd,ft
+30,Elle _ Silk,Antwerp,length,0.75931,yd,ft
+30,Elle,Brabant,length,0.76072,yd,ft
+5,Aune Of Barant,Brussels,length,0.76106,yd,ft
+29,El Retail,Dendermonde,length,0.76117,yd,ft
+11,Braccio,Naples,length,0.76411,yd,ft
+30,Elle Of Brabant,Frankfort,length,0.76467,yd,ft
+29,El Of Flanders,Amsterdam,length,0.77714,yd,ft
+3,Archine,Russia,length,0.77803,yd,ft
+5,Aune Old Measure,Cambray,length,0.78353,yd,ft
+5,Aune Old Measure,S. Omer,length,0.78894,yd,ft
+29,El,Harlaem,length,0.79586,yd,ft
+29,El Wholesale,Dendermonde,length,0.79944,yd,ft
+31,Elle,South Gall,length,0.80426,yd,ft
+8,Bema Aploon,Ancient Greeks,length,0.84286,yd,ft
+14,Cana _ Cloth,Barcelona,length,0.84866,yd,ft
+31,Elle,Hungary,length,0.85216,yd,ft
+32,Elle,Vienna,length,0.85216,yd,ft
+30,Elle Legal,Austria,length,0.85216,yd,ft
+31,Elle,Moravia,length,0.86474,yd,ft
+31,Elle Of Moravia,Prague,length,0.86474,yd,ft
+3,Archin Schah,Persia,length,0.87377,yd,ft
+30,Elle,Austria,length,0.87458,yd,ft
+31,Elle,Hungary,length,0.87458,yd,ft
+5,Aune Old Measure,Picardy,length,0.87492,yd,ft
+30,Elle _ Linen,Appenzell,length,0.87677,yd,ft
+31,Elle _ Linens,Thurgau,length,0.87677,yd,ft
+32,Elle,Tyrol,length,0.8795,yd,ft
+5,Aune Old Measure,Burgundy,length,0.88397,yd,ft
+31,Elle Old Measure,Munster,length,0.88419,yd,ft
+31,Elle Old Measure,Ratisbon,length,0.88704,yd,ft
+31,Elle,Munich,length,0.911,yd,ft
+30,Elle Legal,Bavaria,length,0.911,yd,ft
+30,Elle Maximum,Bavaria,length,0.91331,yd,ft
+11,Braccio Merchants,Rome,length,0.92742,yd,ft
+29,Ell,Scotland,length,1.03333,yd,ft
+3,Archin Arisch,Persia,length,1.06334,yd,ft
+11,Braccio New Measure 1803,Milan,length,1.09363,yd,ft
+29,El Netherlandic,Holland,length,1.09363,yd,ft
+22,Corah Minimum,Bengal,length,1.13889,yd,ft
+5,Aune Before 1823,Lausanne,length,1.17678,yd,ft
+5,Aune Old Measure,Lyons,length,1.22855,yd,ft
+30,Elle,Basel,length,1.23372,yd,ft
+29,Ell,England,length,1.25,yd,ft
+29,Ell,Ireland,length,1.25,yd,ft
+5,Aune Retail,Geneva,length,1.25081,yd,ft
+5,Aune Old Measure,Avignon,length,1.27644,yd,ft
+5,Aune,Rochelle,length,1.29972,yd,ft
+5,Aune Of Paris,Lorraine,length,1.29972,yd,ft
+5,Aune Old Measure,France,length,1.29972,yd,ft
+5,Aune Wholesale,Geneva,length,1.29972,yd,ft
+5,Aune Usual ,French West Indies,length,1.30264,yd,ft
+5,Aune After 1823,Lausanne,length,1.31236,yd,ft
+5,Aune Usual ,Lyons,length,1.31236,yd,ft
+5,Aune Usual Till 1837,France,length,1.31236,yd,ft
+30,Elle,Rhenish Bavaria,length,1.31236,yd,ft
+22,Corah Maximum,Bengal,length,1.45556,yd,ft
+5,Aune Old Measure,Morlaix,length,1.47333,yd,ft
+5,Aune Old Measure,S. Malo,length,1.47333,yd,ft
+5,Aune Old Measure,Rennes,length,1.51386,yd,ft
+8,Bema Diploon,Ancient Greeks,length,1.68572,yd,ft
+14,Cana,Barcelona,length,1.69732,yd,ft
+14,Cana,Majorca,length,1.71044,yd,ft
+20,Chebbo,Venice,length,1.71131,yd,ft
+21,Compas,Gironde,length,1.717,yd,ft
+14,Cana,Tortosa,length,1.74074,yd,ft
+14,Cana,Minorca,length,1.75419,yd,ft
+11,Braca,Portugal,length,1.80449,yd,ft
+12,Braza,Spain,length,1.82636,yd,ft
+12,Braza Marine,Spain,length,1.82636,yd,ft
+32,Estado,Spain,length,1.85472,yd,ft
+15,Canne,Carcassonne,length,1.9518,yd,ft
+15,Canne,Toulousse,length,1.96417,yd,ft
+12,Braza,Alicant,length,1.97947,yd,ft
+12,Braza Or Brazada,Canary ,length,1.99461,yd,ft
+15,Canna ,Palermo,length,2.06951,yd,ft
+15,Canne,Montpellier,length,2.1735,yd,ft
+15,Canne,Aix,length,2.17488,yd,ft
+15,Canna Commercial,Rome,length,2.17853,yd,ft
+15,Canne Of France,Piedmont,length,2.18727,yd,ft
+15,Canne,Marseilles,length,2.20117,yd,ft
+15,Canne,Dauphiny,length,2.21286,yd,ft
+12,Braza Reale,Valencia,length,2.23183,yd,ft
+15,Canne,Arles,length,2.2389,yd,ft
+18,Cavezzo,Verona,length,2.2501,yd,ft
+14,Cana,Aragon,length,2.26568,yd,ft
+18,Cavezzo,Venice,length,2.2818,yd,ft
+15,Canna ,Naples,length,2.30686,yd,ft
+15,Canna ,Messina,length,2.3114,yd,ft
+18,Cavezzo,Padua,length,2.3452,yd,ft
+11,Braca,Lisbon,length,2.39057,yd,ft
+15,Canna Architect & Surveyors,Rome,length,2.44344,yd,ft
+15,Canna ,Genoa,length,2.45177,yd,ft
+15,Canna ,Malta,length,2.48123,yd,ft
+18,Cavezzo,Rovigo,length,2.5212,yd,ft
+15,Canna Woodland,Florence,length,2.55048,yd,ft
+15,Canna ,Leghorn,length,2.55279,yd,ft
+15,Canna _ Silk,Lucca,length,2.59408,yd,ft
+28,Dumplachter,Bohemia,length,2.59833,yd,ft
+15,Canna _ Cloth,Lucca,length,2.64658,yd,ft
+18,Cavezzo,Milan,length,2.85558,yd,ft
+15,Canna ,Sardinia,length,2.87078,yd,ft
+18,Cavezzo,Bergamo,length,2.8728,yd,ft
+18,Cavezzo,Cremona,length,3.15142,yd,ft
+15,Canna ,Pisa,length,3.19011,yd,ft
+15,Canna Architect & Surveyors,Florence,length,3.19122,yd,ft
+25,Decempeda,Ancient Romans,length,3.23555,yd,ft
+15,Canna Surveyors,Genoa,length,3.26902,yd,ft
+32,Estadale Old Measure,Spain,length,3.40033,yd,ft
+18,Cavezzo,Modena,length,3.43214,yd,ft
+18,Cavezzo,Reggio,length,3.48366,yd,ft
+20,Chetung,Pekin,length,3.64583,yd,ft
+32,Estadale Since 1801,Spain,length,3.70944,yd,ft
+18,Cavezzo,Florence,length,3.82572,yd,ft
+20,Chetung,Canton,length,4.10069,yd,ft
+6,Bambou,Pegu,length,4.20833,yd,ft
+18,Cavezzo,Mantua,length,4.2246,yd,ft
+28,Duong,An-Nam,length,7.10512,yd,yd
+24,Cuerda,Spain,length,7.65074,yd,yd
+22,Corde Surveying,Brittany,length,8.52614,yd,yd
+24,Decametre,France,length,10.93633,yd,yd
+22,Cordel,Spain,length,13.60132,yd,yd
+6,Bambou Of Akbar,Ancient Hindoos,length,13.99667,yd,yd
+18,Catena,Rome,length,14.04983,yd,yd
+18,Catena,Naples,length,17.19283,yd,yd
+18,Catena,Apulia,length,20.05833,yd,yd
+20,Chaine _ Surveying,Belgium,length,21.87266,yd,yd
+20,Chaine _ Surveying,France,length,21.87266,yd,yd
+20,Chain _ Surveying,England,length,22,yd,yd
+20,Chain _ Surveying,United States,length,22,yd,yd
+20,Chain _ Surveying,Scotland,length,24.8,yd,yd
+2,Actus,Ancient Romans,length,38.82655,yd,yd
+24,Cuerda,Valencia,length,39.67667,yd,yd
+14,Cable Length Marine,England ,length,240,yd,mi
+21,Cochliarion,Ancient Greeks,liquid capacity,0.00119,gal,oz
+20,Chama,Ancient Greeks,liquid capacity,0.00238,gal,oz
+19,Centilitre,France,liquid capacity,0.00264,gal,oz
+21,Concha,Ancient Greeks,liquid capacity,0.00594,gal,oz
+24,Cyathos,Ancient Greeks,liquid capacity,0.01188,gal,oz
+24,Cyathus,Ancient Romans,liquid capacity,0.01188,gal,oz
+1,Acetabulum,Ancient Romans,liquid capacity,0.01782,gal,oz
+20,Chatte _ Milk,Seringapatam,liquid capacity,0.02024,gal,oz
+22,Coppo,Milan,liquid capacity,0.02642,gal,oz
+25,Decilitre,France,liquid capacity,0.02642,gal,oz
+18,Cartoccio,Rome,liquid capacity,0.0301,gal,oz
+22,Copa,Spain,liquid capacity,0.03331,gal,oz
+23,Cuarteron _ Oil,Madrid,liquid capacity,0.03374,gal,oz
+8,Becherlein,Lausanne,liquid capacity,0.03566,gal,oz
+1,Achtel,Augsburg,liquid capacity,0.03877,gal,oz
+8,Becher,Berne,liquid capacity,0.05521,gal,oz
+25,Demi-Setier,France,liquid capacity,0.06151,gal,oz
+22,Cotyla,Ancient Greeks,liquid capacity,0.07126,gal,oz
+23,Cuartillo Minimum,Saragossa,liquid capacity,0.08215,gal,oz
+23,Cuarto,Corsica,liquid capacity,0.08559,gal,oz
+21,Chopine,Namur,liquid capacity,0.09369,gal,oz
+21,Chopine,Paris,liquid capacity,0.12302,gal,oz
+21,Chopine,Strasburg,liquid capacity,0.12734,gal,pt
+25,Demi-Litre,France,liquid capacity,0.13209,gal,pt
+21,Chopine,French West Indies,liquid capacity,0.13235,gal,pt
+8,Becher,Zurich,liquid capacity,0.18162,gal,pt
+11,Bottle _ Wine,United States,liquid capacity,0.1875,gal,pt
+23,Cuartillo Maximum,Alicant,liquid capacity,0.18967,gal,pt
+17,Caraffa,Naples,liquid capacity,0.19289,gal,pt
+11,Bottle _ Malt Liquor,United States,liquid capacity,0.2,gal,pt
+9,Boccale,Turin,liquid capacity,0.2067,gal,pt
+9,Boccale,Milan,liquid capacity,0.20791,gal,pt
+3,Amula,Genoa,liquid capacity,0.21746,gal,pt
+21,Choppin,Scotland,liquid capacity,0.22382,gal,pt
+19,Centlet,Ragusa,liquid capacity,0.24251,gal,pt
+9,Boccale,Ionian Isles,liquid capacity,0.25018,gal,qt
+11,Bozza,Vicenza,liquid capacity,0.25065,gal,qt
+11,Bozza,Padua,liquid capacity,0.26162,gal,qt
+15,Canette Average,Belgium,liquid capacity,0.26169,gal,qt
+9,Boccale,Venice,liquid capacity,0.26735,gal,qt
+24,Cuba,Abyssinia,liquid capacity,0.2684,gal,qt
+23,Cuarto _ Oil,Barcelona,liquid capacity,0.27211,gal,qt
+9,Boccale _ Oil,Florence,liquid capacity,0.27607,gal,qt
+9,Boccale _ Oil,Leghorn,liquid capacity,0.27607,gal,qt
+9,Boccale,Leghorn,liquid capacity,0.3009,gal,qt
+9,Boccale _ Wine,Florence,liquid capacity,0.3009,gal,qt
+2,Agastera,Cerigo,liquid capacity,0.30131,gal,qt
+9,Boccale,Corsica,liquid capacity,0.34237,gal,qt
+9,Boccale,Bologna,liquid capacity,0.34603,gal,qt
+14,Canada,Lisbon,liquid capacity,0.36414,gal,qt
+14,Canada,Rio Janeiro,liquid capacity,0.36414,gal,qt
+9,Boccale,Ferrara,liquid capacity,0.36589,gal,qt
+9,Boccale,Modena,liquid capacity,0.37514,gal,qt
+9,Boccale,Ancona,liquid capacity,0.47288,gal,qt
+9,Boccale _ Wine,Rome,liquid capacity,0.48164,gal,qt
+5,Azumbre,Castille,liquid capacity,0.50986,gal,qt
+9,Boccale _ Oil,Rome,liquid capacity,0.54233,gal,qt
+14,Cadarp,Tortosa,liquid capacity,0.54421,gal,qt
+9,Boccale,Patras,liquid capacity,0.56413,gal,qt
+8,Bes Or Bessis,Ancient Romans,liquid capacity,0.57008,gal,qt
+5,Azumbre,Asturias,liquid capacity,0.59704,gal,qt
+11,Bozia,Cerigo,liquid capacity,0.60021,gal,qt
+14,Canan,Siam,liquid capacity,0.62874,gal,qt
+8,Bener _ Milk,Graubudten,liquid capacity,0.70447,gal,qt
+11,Bozza,Milan,liquid capacity,0.71328,gal,qt
+11,Bozza,Venice,liquid capacity,0.71328,gal,qt
+23,Cuarto,Alicant,liquid capacity,0.76294,gal,qt
+5,Azumbre,Valencia,liquid capacity,0.77827,gal,qt
+23,Cuarto,Valencia,liquid capacity,0.77828,gal,qt
+23,Cuartilla _ Oil,Spain,liquid capacity,0.82978,gal,qt
+21,Chous,Ancient Greeks,liquid capacity,0.85513,gal,qt
+21,Congius,Ancient Romans,liquid capacity,0.85513,gal,qt
+22,Cortan _ Oil Mean,Barcelona,liquid capacity,1.05671,gal,gal
+23,Cuartilla _ Wine,Spain,liquid capacity,1.0657,gal,gal
+2,Almud,Turkey,liquid capacity,1.38086,gal,gal
+9,Bicongius,Ancient Romans,liquid capacity,1.71025,gal,gal
+14,Canada,Bahia,liquid capacity,1.87272,gal,gal
+22,Cortan,Barcelona,liquid capacity,1.9625,gal,gal
+15,Cantara Minimum,Spain ,liquid capacity,1.9919,gal,gal
+24,Cugnatella _ Oil,Rome,liquid capacity,2.1693,gal,gal
+2,Alqueire,Lisbon,liquid capacity,2.18475,gal,gal
+11,Braca,Brazil,liquid capacity,2.37756,gal,gal
+4,Arrobeta _ Oil,Aragon,liquid capacity,2.38553,gal,gal
+1,Achtel,Wurzburg,liquid capacity,2.47345,gal,gal
+8,Beson,Augsburg,liquid capacity,2.48693,gal,gal
+24,Decalitre,France,liquid capacity,2.64178,gal,gal
+4,Arroba _ Wine,Barcelona,liquid capacity,2.72368,gal,gal
+4,Arroba _ Wine,Alicant,liquid capacity,3.03805,gal,gal
+14,Caffiso,Palermo,liquid capacity,3.09062,gal,gal
+14,Caffiso _ Oil,Messina,liquid capacity,3.09062,gal,gal
+14,Caffiso _ Oil,Trieste,liquid capacity,3.15439,gal,gal
+2,Alqueire,Oporto,liquid capacity,3.31279,gal,gal
+4,Arroba _ Oil,Spain,liquid capacity,3.31853,gal,gal
+16,Cantara Mean Of 21,Spain,liquid capacity,3.37528,gal,gal
+12,Broc,Lausanne,liquid capacity,3.5664,gal,gal
+4,Arroba,Aragon,liquid capacity,3.57961,gal,gal
+4,Arroba,Valencia,liquid capacity,3.57961,gal,gal
+4,Arroba _ Oil,Alicant,liquid capacity,3.64037,gal,gal
+12,Brochet,Neufchatel,liquid capacity,4.02458,gal,gal
+4,Arroba,Havana,liquid capacity,4.1,gal,gal
+2,Atting,Sweden,liquid capacity,4.14495,gal,gal
+4,Arroba,Mulaga,liquid capacity,4.18722,gal,gal
+32,Escandal,Marseilles,liquid capacity,4.22684,gal,gal
+4,Arroba,Canary Islands ,liquid capacity,4.25,gal,gal
+4,Arroba _ Wine,Spain,liquid capacity,4.26304,gal,gal
+2,Almude,Lison,liquid capacity,4.36973,gal,gal
+16,Cantara Maximum,Spain,liquid capacity,4.87144,gal,gal
+32,Emine,Montpellier,liquid capacity,4.91071,gal,gal
+26,Diota,Ancient Greeks,liquid capacity,5.13075,gal,gal
+14,Caffiso _ Oil,Malta,liquid capacity,5.49966,gal,gal
+7,Barril _ Honey,Havana,liquid capacity,6,gal,gal
+6,Baral _ Wine,South Of France,liquid capacity,6.67049,gal,gal
+3,Amphora,Ancient Romans,liquid capacity,6.841,gal,gal
+29,Eimer,Hamburg,liquid capacity,7.62946,gal,gal
+28,Eimer,Altona,liquid capacity,7.65059,gal,gal
+29,Eimer,Rostock,liquid capacity,7.65059,gal,gal
+29,Eimer,Mecklenburg,liquid capacity,7.65482,gal,gal
+29,Eimer,Lubec,liquid capacity,7.91472,gal,gal
+7,Barril ,Minorca,liquid capacity,8.34375,gal,gal
+32,Emmer,Antwerp,liquid capacity,8.80593,gal,gal
+7,Barile ,Sardinia,liquid capacity,8.87638,gal,gal
+3,Anker New Measure,Berlin,liquid capacity,9.07319,gal,gal
+7,Barile ,Palermo,liquid capacity,9.43644,gal,gal
+28,Eimer,Aarau,liquid capacity,9.5141,gal,gal
+3,Anker,Hamburg,liquid capacity,9.53683,gal,gal
+3,Anker,Mecklenburg,liquid capacity,9.56853,gal,gal
+3,Anker,Bremen,liquid capacity,9.57413,gal,gal
+6,Barile _ Oil,Florence,liquid capacity,9.63384,gal,gal
+7,Barile _ Oil,Pisa,liquid capacity,9.63384,gal,gal
+3,Anker,Lippe,liquid capacity,9.81622,gal,gal
+6,Baral _ Oil,Montpellier,liquid capacity,9.8512,gal,gal
+3,Anker,Brunswic,liquid capacity,9.88004,gal,gal
+3,Anker,Copenhagen,liquid capacity,9.88157,gal,gal
+3,Anker,Lubec,liquid capacity,9.89346,gal,gal
+4,Arroba,Valparaiso,liquid capacity,9.90667,gal,gal
+12,Brande,Neufchatel,liquid capacity,10.06145,gal,gal
+3,Anker,Rotterdam,liquid capacity,10.13915,gal,gal
+3,Anker,Amsterdam,liquid capacity,10.2501,gal,gal
+3,Amphoreus,Ancient Greeks,liquid capacity,10.2615,gal,gal
+8,Bath,Ancient Hebrews,liquid capacity,10.2615,gal,gal
+12,Brente,Friburg,liquid capacity,10.31615,gal,gal
+3,Anker,Hanover,liquid capacity,10.35988,gal,gal
+3,Ankare,Stockholm,liquid capacity,10.36634,gal,gal
+14,Canado,Galicia,liquid capacity,10.42182,gal,gal
+12,Brente,Solothurn,liquid capacity,10.52868,gal,gal
+29,Eimer,Lausanne,liquid capacity,10.69921,gal,gal
+7,Barile ,Malta,liquid capacity,11,gal,gal
+7,Barile _ Brandy Rum,Leghorn,liquid capacity,11,gal,gal
+7,Barile ,Modena,liquid capacity,11.00566,gal,gal
+12,Brente,Berne,liquid capacity,11.03736,gal,gal
+28,Eimer,Appenzell,liquid capacity,11.06758,gal,gal
+29,Eimer,South Gall,liquid capacity,11.09275,gal,gal
+29,Eimer,Schaffhausen,liquid capacity,11.1128,gal,gal
+6,Barile ,Ancona,liquid capacity,11.34909,gal,gal
+7,Barile ,Naples,liquid capacity,11.57321,gal,gal
+12,Brenta,Tessino,liquid capacity,11.70837,gal,gal
+7,Barile _ Wine,Leghorn,liquid capacity,12.04123,gal,gal
+6,Barile _ Wine,Florence,liquid capacity,12.04229,gal,gal
+7,Barile _ Wine,Pisa,liquid capacity,12.04229,gal,gal
+3,Anker Old Measure,Berlin,liquid capacity,12.45491,gal,gal
+21,Cogno,Florence,liquid capacity,12.9335,gal,gal
+25,Demi-Hectolitre,France,liquid capacity,13.2089,gal,gal
+29,Eimer,Ratisbon,liquid capacity,13.2089,gal,gal
+3,Anthal,Hungary,liquid capacity,13.35235,gal,gal
+21,Cohi,Siam,liquid capacity,13.38476,gal,gal
+7,Barile ,Patras,liquid capacity,13.53912,gal,gal
+6,Baral,Toulouse,liquid capacity,13.57875,gal,gal
+6,Barile _ Oil,Cerigo,liquid capacity,14.40298,gal,gal
+28,Eimer Old Measure,Breslau,liquid capacity,14.67244,gal,gal
+12,Brenta,Turin,liquid capacity,14.8822,gal,gal
+29,Eimer,Vienna,liquid capacity,14.95247,gal,gal
+29,Eimer,Hungary,liquid capacity,15.02935,gal,gal
+7,Barile _ Oil,Rome,liquid capacity,15.1851,gal,gal
+7,Barile _ Wine,Rome,liquid capacity,15.4125,gal,gal
+28,Eimer,Bohemia,liquid capacity,16.14128,gal,gal
+29,Eimer,Hanover,liquid capacity,16.43452,gal,gal
+28,Eimer _ Wine,Bavaria,liquid capacity,16.94438,gal,gal
+29,Eimer,Prague,liquid capacity,16.95151,gal,gal
+7,Barile _ Oil,Genoa,liquid capacity,17.08351,gal,gal
+21,Concia,Venice,liquid capacity,17.11872,gal,gal
+7,Barril,Tripoli,liquid capacity,17.11873,gal,gal
+7,Barile ,Zante,liquid capacity,17.62596,gal,gal
+12,Brente,Aarau,liquid capacity,17.6603,gal,gal
+28,Eimer,Dresden,liquid capacity,17.81352,gal,gal
+7,Barile ,Ionian Isles,liquid capacity,17.99845,gal,gal
+29,Eimer,Munich,liquid capacity,18.074,gal,gal
+28,Eimer _ Beer,Bavaria,liquid capacity,18.07505,gal,gal
+28,Eimer,Berlin,liquid capacity,18.14638,gal,gal
+28,Eimer _ Wine,Breslau,liquid capacity,18.14638,gal,gal
+28,Eimer,Dantzic,liquid capacity,18.14902,gal,gal
+29,Eimer Schenk-Mass,Nurnberg,liquid capacity,18.22338,gal,gal
+2,Ako,Hungary,liquid capacity,18.4951,gal,gal
+6,Barile _ Wine,Genoa,liquid capacity,18.60861,gal,gal
+12,Brenta,Verona,liquid capacity,18.62455,gal,gal
+28,Eimer _ Wine,Erfurt,liquid capacity,18.73815,gal,gal
+12,Brenta,Bergamo,liquid capacity,18.98383,gal,gal
+12,Brenta,Parma,liquid capacity,19.02082,gal,gal
+28,Eimer,Gotha,liquid capacity,19.22418,gal,gal
+29,Eimer Visir-Mass,Nurnberg,liquid capacity,19.36234,gal,gal
+29,Eimer,Weimar,liquid capacity,19.3643,gal,gal
+29,Eimer,Hungary,liquid capacity,19.36874,gal,gal
+28,Eimer _ Beer,Erfurt,liquid capacity,19.45671,gal,gal
+28,Eimer,Augsburg,liquid capacity,19.90336,gal,gal
+12,Brenta,Milan,liquid capacity,19.95917,gal,gal
+29,Eimer,Leipsic,liquid capacity,20.03843,gal,gal
+12,Brenta,Placentia,liquid capacity,20.07753,gal,gal
+7,Barile ,Ragusa,liquid capacity,20.36151,gal,gal
+21,Conzo,Trent,liquid capacity,20.60588,gal,gal
+21,Conzo,Treviso,liquid capacity,20.60588,gal,gal
+32,Embar,Sweden,liquid capacity,20.73268,gal,gal
+22,Corba,Bologna,liquid capacity,20.76175,gal,gal
+28,Eimer,Courland,liquid capacity,20.83043,gal,gal
+21,Conzo,Udino,liquid capacity,20.94931,gal,gal
+5,Asnee _ Wine,Lyons,liquid capacity,21.65099,gal,gal
+24,Czeber,Hungary,liquid capacity,22.01923,gal,gal
+28,Eimer Old Measure,Berlin,liquid capacity,24.90983,gal,gal
+22,Coppo _ Oil,Lucca,liquid capacity,25.95652,gal,gal
+8,Beczka Since 1819,Poland,liquid capacity,26.4178,gal,gal
+7,Barrel Madeira,London,liquid capacity,27.5,gal,gal
+28,Eimer,Glaris,liquid capacity,28.20343,gal,gal
+17,Carga _ Wine,Majorca,liquid capacity,28.67124,gal,gal
+29,Eimer Lauter-Mass,Zurich,liquid capacity,28.92749,gal,gal
+7,Barrel Claret,London,liquid capacity,29,gal,gal
+7,Barrel Barcelona Wine,London,liquid capacity,30,gal,gal
+29,Eimer Truber-Mass,Zurich,liquid capacity,30.86599,gal,gal
+7,Barrel Brandy,United States,liquid capacity,31.5,gal,bar
+7,Barrel _ Wine & Brandy,Great Britain,liquid capacity,31.5,gal,bar
+17,Carga _ Wine,Barcelona,liquid capacity,31.84934,gal,bar
+7,Barrel _ Salted Provisions,Maryland,liquid capacity,31.9,gal,bar
+7,Barrel Beer Before 1803,Great Britain,liquid capacity,32,gal,bar
+7,Barrel Sherry,London,liquid capacity,32.5,gal,bar
+17,Carga _ Oil,Barcelona,liquid capacity,32.65244,gal,bar
+17,Carga _ Wine,Minorca,liquid capacity,33.31817,gal,bar
+9,Biguncia,Milan,liquid capacity,34.23747,gal,bar
+9,Biguncia,Venice,liquid capacity,34.23747,gal,bar
+7,Barrel Port,London,liquid capacity,34.5,gal,bar
+7,Barrel Lisbon,London,liquid capacity,35,gal,bar
+7,Barrel Ale,Great Britain,liquid capacity,36,gal,bar
+9,Bocoy,Havana,liquid capacity,36,gal,bar
+8,Beczka,Poland,liquid capacity,36.07086,gal,bar
+2,Ahm,Aix La Chappelle,liquid capacity,36.08777,gal,bar
+6,Barile ,Corsica,liquid capacity,36.98492,gal,bar
+1,Aam,Antwerp,liquid capacity,37.56347,gal,bar
+1,Aam _ Oil,Amsterdam,liquid capacity,37.7299,gal,bar
+2,Ahm,Hamburg,liquid capacity,38.1473,gal,bar
+12,Brenta,Cremona,liquid capacity,38.83417,gal,bar
+20,Charge _ Oil,Montpellier,liquid capacity,39.40743,gal,bar
+1,Aam,Brunswic,liquid capacity,39.52018,gal,bar
+3,Ame,Copenhagen,liquid capacity,39.55637,gal,bar
+2,Ahm,Lubec,liquid capacity,39.57385,gal,bar
+2,Ahm,Leipsic,liquid capacity,40.07686,gal,bar
+1,Aam,Rotterdam,liquid capacity,40.55925,gal,bar
+1,Aam _ Wine,Amsterdam,liquid capacity,41.00041,gal,bar
+2,Ahm,Hanover,liquid capacity,41.4395,gal,bar
+3,Am,Stockholm,liquid capacity,41.46537,gal,bar
+17,Carga Mean,Aragon,liquid capacity,42.93686,gal,bar
+7,Barrel _ Lamp Oil,Cincinnati,liquid capacity,43,gal,bar
+17,Carga _ Wine,Valencia,liquid capacity,46.69082,gal,bar
+25,Demi-Queue,Champagne,liquid capacity,47.23766,gal,bar
+25,Demi-Queue _ Wine,Burgundy,liquid capacity,53.14205,gal,bar
+29,Eimer Schenk-Mass,Wurtemberg,liquid capacity,70.5904,gal,hg
+15,Candy,Madras,liquid capacity,74.46464,gal,hg
+29,Eimer Hell Eich-Mass Refined,Wurtemberg,liquid capacity,77.64944,gal,hg
+7,Barril ,Lisbon,liquid capacity,78.65514,gal,hg
+29,Eimer Eich-Mass On Lees,Wurtemberg,liquid capacity,81.04624,gal,hg
+10,Botta,Messina,liquid capacity,108,gal,hg
+10,Botta,Palermo,liquid capacity,113.23728,gal,hg
+10,Bota ,Portugal,liquid capacity,113.63088,gal,hg
+10,Bota ,Xeres,liquid capacity,120,gal,hg
+13,Butt Mountain,London,liquid capacity,120,gal,hg
+10,Bota _ Oil,Spain,liquid capacity,127.79082,gal,hg
+10,Bota _ Wine,Spain,liquid capacity,127.89121,gal,hg
+10,Botta,Naples,liquid capacity,128.87852,gal,hg
+10,Botschka,Russia,liquid capacity,129.95973,gal,hg
+13,Butt Sherry,London,liquid capacity,130,gal,hg
+13,Butt Of Beer Or Porter,London,liquid capacity,131.84416,gal,hg
+10,Botta,Sardinia,liquid capacity,132.089,gal,hg
+20,Char,Geneva,liquid capacity,133.36623,gal,hg
+10,Botta,Minorca,liquid capacity,133.5,gal,hg
+24,Culeus,Ancient Romans,liquid capacity,136.82,gal,hg
+3,Anfora,Venice,liquid capacity,136.94988,gal,hg
+17,Carro,Turin,liquid capacity,148.82202,gal,hg
+10,Botta,Milan,liquid capacity,171.18735,gal,hg
+10,Botta,Venice,liquid capacity,171.18735,gal,hg
+10,Bosse,Neufchatel,liquid capacity,241.47474,gal,hg
+10,Botta,Rome,liquid capacity,246.6,gal,hg
+17,Carro,Naples,liquid capacity,257.75704,gal,hg
+28,Dreiling,Vienna,liquid capacity,448.5741,gal,hg
+20,Cheville,Havre,solid,0.009,ft3,
+19,Centistere Not Used,France,solid,0.353,ft3,
+24,Cube-Foot,England,solid,1,ft3,
+24,Cube-Foot,United States,solid,1,ft3,
+25,Decistere,France,solid,3.532,ft3,
+17,Carreau _ Stone,Paris,solid,3.632,ft3,
+28,Ecklein,Wurtemberg,solid,7.479,ft3,
+17,Carrata _ Marble,Carrara,solid,12.768,ft3,
+1,Achtel,Wurtemberg,solid,14.948,ft3,
+22,Corde _ Wood,Brussels ,solid,16.827,ft3,
+22,Corde _ Wood,Antwerp,solid,22.494,ft3,
+24,Cube-Yard,England,solid,27,ft3,
+24,Cube-Yard,United States,solid,27,ft3,
+22,Corde _ Wood,Louvain,solid,54.953,ft3,
+26,Double-Stere,France,solid,70.633,ft3,
+22,Corde _ Wood,Liege,solid,126.359,ft3,
+22,Cord _ Wood,England,solid,128,ft3,
+22,Cord _ Wood,United States,solid,128,ft3,
+22,Corde Eaux Et Forets Old Measure,Paris,solid,135.616,ft3,
+22,Corde Wharfs,Paris,solid,172.481,ft3,
+25,Decastere,Ancient Greeks,solid,353.166,ft3,
+19,Cent Lumber,France,solid,363.168,ft3,
+1,Achtel,Prussia,solid,393.065,ft3,
+12,Braccio Quadrato,Parma,superficial,0.00007,ac,
+19,Centiare,France,superficial,0.0002,ac,
+12,Braza Cuadrada,Spain,superficial,0.00076,ac,
+12,Braccio Quadrato,Florence,superficial,0.0008,ac,
+12,Braza Cuadrada,Canary ,superficial,0.0008,ac,
+12,Braza Cuadrada,Valencia,superficial,0.001,ac,
+20,Chattae,Calcutta,superficial,0.001,ac,
+2,Akena,Ancient Greeks,superficial,0.0023,ac,
+32,Estadale _ Vineyards,Spain,superficial,0.0024,ac,
+25,Deciare Not Used,France,superficial,0.0025,ac,
+2,Actus Simplex,Ancient Romans,superficial,0.0104,ac,
+22,Corde Surveying,Brittany,superficial,0.015,ac,
+22,Cottah,Calcutta,superficial,0.0158,ac,
+20,Chaince Old Measure,France,superficial,0.0163,ac,
+10,Boisseau ,Montpellier,superficial,0.0219,ac,
+3,Are,France,superficial,0.0247,ac,
+10,Boisseau ,Alais,superficial,0.0308,ac,
+23,Cuartillo ,Spain,superficial,0.0331,ac,
+2,Almude,Canary Islands ,superficial,0.0416,ac,
+19,Celemin,Canary Islands,superficial,0.0417,ac,
+2,Album,Copenhagen,superficial,0.0568,ac,
+4,Aroura,Ancient Greeks,superficial,0.0587,ac,
+21,Clima,Ancient Romans,superficial,0.0779,ac,
+10,Boisseau ,Cahors,superficial,0.0788,ac,
+20,Chain _ Surveying Square,United States,superficial,0.1,ac,
+18,Carte,Alais,superficial,0.1232,ac,
+19,Celemin,Spain,superficial,0.1323,ac,
+32,Eminee,Nismes,superficial,0.1389,ac,
+24,Danree,Chalons S Marne,superficial,0.1448,ac,
+22,Coupee,Bresse,superficial,0.1629,ac,
+32,Eminee,Gap,superficial,0.1642,ac,
+10,Boisselec,Poitiers,superficial,0.1877,ac,
+19,Cent Old Measure Mean,Belgium,superficial,0.2036,ac,
+32,Eminee Old Measure,Avignon,superficial,0.2108,ac,
+10,Boisselec,Poitiers,superficial,0.2443,ac,
+22,Corbula,Sardinia,superficial,0.2451,ac,
+25,Decare Not Used,Ancient Greeks,superficial,0.2471,ac,
+6,Bacile,Ionian Isles,superficial,0.2987,ac,
+2,Actus Major,Ancient Romans,superficial,0.3115,ac,
+3,Arepenna,Ancient Gauls,superficial,0.3115,ac,
+18,Cartonnee,Cahors,superficial,0.3154,ac,
+8,Bicheree,Lyons,superficial,0.3196,ac,
+9,Biggah,Calcutta,superficial,0.3306,ac,
+8,Bau,Oldenburg,superficial,0.3572,ac,
+18,Cartonate,Perpignan,superficial,0.366,ac,
+8,Bes Or Bessis,Ancient Romans,superficial,0.4153,ac,
+9,Biggah,Malwah,superficial,0.45,ac,
+4,Arpent,Strasburg,superficial,0.4967,ac,
+9,Biggah,Malwah,superficial,0.5119,ac,
+9,Biggah,Malwah,superficial,0.5877,ac,
+2,Acker,Hesse Cassel,superficial,0.5897,ac,
+9,Biggah,Sural,superficial,0.6074,ac,
+2,Acker Tillage,Gotha,superficial,0.651,ac,
+14,Campo,Venice,superficial,0.6881,ac,
+9,Biolca,Bologna,superficial,0.6997,ac,
+9,Biolca,Modena,superficial,0.7009,ac,
+2,Acker,Weimar,superficial,0.7042,ac,
+14,Campo,Verona,superficial,0.7528,ac,
+9,Biolca,Parma,superficial,0.7531,ac,
+2,Acker Wood-Land,Gotha,superficial,0.8373,ac,
+4,Arpent Of Paris,France,superficial,0.8449,ac,
+21,Concade,Auch,superficial,0.946,ac,
+14,Campo,Padua,superficial,0.9541,ac,
+3,Arancada,Spain,superficial,0.9556,ac,
+2,Acre,Great Britain,superficial,1,ac,
+2,Acre,United States,superficial,1,ac,
+18,Cawney Legal,Carnatic,superficial,1.0047,ac,
+14,Cahizada,Valencia,superficial,1.0261,ac,
+4,Arpent,Bayonne,superficial,1.0345,ac,
+20,Charge,Embrun,superficial,1.0381,ac,
+4,Arpent,Troyes,superficial,1.0425,ac,
+4,Arpent Ordinary,France,superficial,1.0457,ac,
+14,Campo,Rovigo,superficial,1.0996,ac,
+2,Acker Wood-Land,Bamberg,superficial,1.1661,ac,
+18,Cawney Usual,Carnatic,superficial,1.1791,ac,
+4,Arpent Legal,France,superficial,1.262,ac,
+2,Acre Old Measure,Scotland,superficial,1.2707,ac,
+4,Arpent,Geneva,superficial,1.2766,ac,
+14,Campo,Treviso,superficial,1.2855,ac,
+2,Acker,Erfurt,superficial,1.2857,ac,
+18,Casseney,Madras,superficial,1.3223,ac,
+18,Cawney,Madras,superficial,1.3223,ac,
+2,Acker,Leipsic,superficial,1.3624,ac,
+26,Diemt,Emden,superficial,1.4014,ac,
+4,Arpent Small,Toulouse,superficial,1.4054,ac,
+5,Ayminate,Perpignan,superficial,1.4641,ac,
+18,Celemin,Alicant,superficial,1.4657,ac,
+2,Acker Meadow,Bamberg,superficial,1.5024,ac,
+2,Acker Tillage,Bamberg,superficial,1.5024,ac,
+9,Biolca,Ferrara,superficial,1.6122,ac,
+4,Arpent,Tours,superficial,1.6289,ac,
+10,Bonnier,Brussels W,superficial,2.0042,ac,
+2,Akker,Amsterdam,superficial,2.0318,ac,
+10,Bonnier,Liege,superficial,2.1536,ac,
+10,Bonnier,Brussels E,superficial,2.2571,ac,
+10,Bonnier Woodland,Liege,superficial,2.3365,ac,
+10,Bonnier,Venloo,superficial,2.3585,ac,
+12,Bunder,Holland,superficial,2.4711,ac,
+25,Deciatine,St. Peterburg,superficial,2.7015,ac,
+26,Desatine,St. Peterburg,superficial,2.7015,ac,
+4,Arpent Large,Toulouse,superficial,2.8108,ac,
+10,Bonnier,Mechlin,superficial,3.0542,ac,
+17,Carre,French West Indies,superficial,3.1909,ac,
+10,Bonnier,Antwerp,superficial,3.2507,ac,
+10,Bonnier,Courtray,superficial,3.5025,ac,
+4,Arpent,Auch,superficial,3.785,ac,
+18,Carro,Apulia,superficial,9.9707,ac,
+19,Centuria,Ancient Romans,superficial,124.5869,ac,
+26,Dinheiro,Portugal,weight,0.002635,lb,
+26,Dinero,Spain,weight,0.002646,lb,
+21,Chu,China,weight,0.003472,lb,
+19,Centass,Baden,weight,0.011024,lb,
+23,Cuarto,Madrid,weight,0.015877,lb,
+8,Beka,Ancient Hebrews,weight,0.016043,lb,
+23,Cuartilla,Aragon,weight,0.016077,lb,
+26,Didrachmon,Ancient Attica,weight,0.019252,lb,
+28,Duella,Ancient Romans,weight,0.020053,lb,
+24,Decagramme,France,weight,0.022047,lb,
+26,Didrachmon,Euboea,weight,0.026738,lb,
+26,Didrachmon,Ancient Aegina,weight,0.032086,lb,
+26,Didrachmon,Babylon,weight,0.032086,lb,
+21,Chittac Minimum _ Metals,Masulipatan,weight,0.035156,lb,
+28,Eggeba,Guinea,weight,0.047119,lb,
+3,Anna,Sindh,weight,0.058333,lb,
+8,Benda-Offs,Guinea,weight,0.070678,lb,
+21,Chittac,Bengal,weight,0.093894,lb,
+12,Buncal _ Gold,Malacca,weight,0.102457,lb,
+12,Buncal _ Gold,Sumatra,weight,0.105857,lb,
+25,Demi-Hectogramme,France,weight,0.110237,lb,
+20,Chattae,Calcutta,weight,0.116658,lb,
+12,Buncal _ Gold,Singapore,weight,0.118857,lb,
+21,Chittac,Ahmednuggur,weight,0.123214,lb,
+21,Chittac Maximum,Masulipatan,weight,0.125,lb,
+8,Benda,Guinea,weight,0.141356,lb,
+1,Abucco,Pergu,weight,0.424107,lb,
+8,Bes Or Bessis,Ancient Romans,weight,0.481265,lb,
+26,Dodrans,Ancient Romans,weight,0.541423,lb,
+26,Dextana,Ancient Romans,weight,0.601581,lb,
+26,Deunx,Ancient Romans,weight,0.661739,lb,
+20,Cheki,Constantinople,weight,0.701504,lb,
+20,Cheki ,Smyra,weight,0.708214,lb,
+4,As,Ancient Romans,weight,0.721897,lb,
+2,Agito,Pegu,weight,0.848214,lb,
+4,Arratel,Portugal,weight,1.01186,lb,
+20,Cheki,Bassora,weight,1.028571,lb,
+18,Catty,Ternate,weight,1.301688,lb,
+18,Catty,Japan,weight,1.308468,lb,
+18,Catty _ Gold & Silver,China,weight,1.32535,lb,
+18,Catty Commercial,China,weight,1.333333,lb,
+18,Catty Commercial,Malacca,weight,1.35,lb,
+18,Catty,Siam,weight,1.352536,lb,
+18,Catty,Java,weight,1.355925,lb,
+14,Can,An-Nam,weight,1.37752,lb,
+28,Dupondius,Ancient Romans,weight,1.443794,lb,
+19,Cequi,Smyra,weight,1.75078,lb,
+20,Cheki _ Opium,Constantinople,weight,1.767857,lb,
+20,Cheki _ Opium,Smyra,weight,1.770526,lb,
+18,Catty _ Gold & Silver,Malacca,weight,2.049143,lb,
+18,Catty,Sumatra,weight,2.118429,lb,
+8,Bedoor,Malacca,weight,2.71185,lb,
+17,Caraffa _ Oil,Tripoli In Africa,weight,3.428571,lb,
+12,Bullah _ Grain,Mysore,weight,4.2264,lb,
+8,Batman,Tauris,weight,5.016849,lb,
+26,Dhurra Minimum,Hindostan,weight,6.171,lb,
+21,Clove _ Woold,England,weight,7,lb,
+25,Decussis,Ancient Romans,weight,7.218971,lb,
+25,Decina,Rome,weight,7.4756,lb,
+26,Dhurra Mean Of 16,Hindostan,weight,10.04719,lb,
+8,Batman,Shiraz,weight,10.123687,lb,
+9,Bismerpund,Norway,weight,13.2,lb,
+9,Bismerpund,Copenhagen,weight,13.21062,lb,
+13,Bushel Blue-Grass Seed,Philadelphia,weight,14,lb,
+8,Batman,Smyra,weight,16.87493,lb,
+8,Batman,Aleppo,weight,16.88093,lb,
+8,Batman,Constantinople,weight,19.131937,lb,
+26,Dhurra Maximum,Hindostan,weight,19.714,lb,
+13,Bushel Bran,Philadelphia,weight,20,lb,
+4,Arroba,Barcelona,weight,21.8205,lb,
+13,Bushel Apples Dried,Philadelphia,weight,22,lb,
+4,Arroba _ Oil,Valencia,weight,22.862183,lb,
+4,Arroba,Balearic Isles,weight,22.875,lb,
+13,Bushel Oats,Philadelphia,weight,24,lb,
+4,Arroba _ Flour,Valencia,weight,24.386328,lb,
+4,Arroba _ Vermillion,Alicant,weight,24.386328,lb,
+4,Arroba,Spain,weight,25.402425,lb,
+4,Arroba,Alicant,weight,27.434619,lb,
+4,Arroba,Aragon,weight,27.434619,lb,
+4,Arroba,Valencia,weight,27.434619,lb,
+4,Arroba,Galicia,weight,31.753031,lb,
+13,Bushel Oats,Ohio,weight,32,lb,
+4,Arroba,Portugal,weight,32.515104,lb,
+13,Bushel Peaches Dried,Philadelphia,weight,33,lb,
+13,Bushel Oats,London,weight,38,lb,
+13,Bushel Barley,London,weight,47,lb,
+13,Bushel Barley,Ohio,weight,48,lb,
+13,Bushel Barley,Philadelphia,weight,48,lb,
+13,Bushel Rape-Seed,London,weight,48,lb,
+7,Barril _ Raisins,Malaga,weight,50.6,lb,
+13,Bushel Buckwheat,Philadelphia,weight,52,lb,
+13,Bushel Rye,London,weight,53,lb,
+13,Bushel Castor-Beans,Philadelphia,weight,56,lb,
+13,Bushel Flax Seed,Ohio,weight,56,lb,
+13,Bushel Flax Seed,Philadelphia,weight,56,lb,
+13,Bushel Ground Salt,London,weight,56,lb,
+13,Bushel Maize Or Indian Corn,Ohio,weight,56,lb,
+13,Bushel Maize Or Indian Corn,Philadelphia,weight,56,lb,
+13,Bushel Rock Salt,London,weight,56,lb,
+13,Bushel Rye,Ohio,weight,56,lb,
+13,Bushel Rye,Philadelphia,weight,56,lb,
+13,Bushel Onions,Philadelphia,weight,57,lb,
+13,Bushel Beans,Philadelphia,weight,60,lb,
+13,Bushel Potatoes,Philadelphia,weight,60,lb,
+13,Bushel Wheat,London,weight,60,lb,
+13,Bushel Wheat,Maryland,weight,60,lb,
+13,Bushel Wheat,Ohio,weight,60,lb,
+13,Bushel Wheat,Philadelphia,weight,60,lb,
+13,Bushel Beans,London,weight,63,lb,
+13,Bushel Clover Seed,Ohio,weight,64,lb,
+13,Bushel Peas,London,weight,64,lb,
+7,Barile _ Salt,Cephalonia,weight,67.244478,lb,
+13,Bushel Clover Seed,London,weight,68,lb,
+9,Binh,An-Nam,weight,68.876,lb,
+19,Centumpondium,Ancient Romans,weight,72.189714,lb,
+19,Centussia,Ancient Romans,weight,72.189714,lb,
+19,Centinajo,Florence,weight,74.68,lb,
+16,Cantaro,Rome,weight,74.756,lb,
+7,Barile _ Fish,Leghorn,weight,74.850821,lb,
+16,Cantaro Legal Since 1836,Florence,weight,74.86,lb,
+14,Caban Of Cocoa,Manilla,weight,83.5,lb,
+16,Cantaro,Minorca,weight,88.2,lb,
+16,Cantaro,Balearic Isles,weight,91.73,lb,
+16,Cantarello,Sardinia,weight,93.21,lb,
+16,Cantaro _ Cotton,Alexandria,weight,95,lb,
+16,Cantaro,Cairo,weight,95.0312,lb,
+16,Cantaro Since 1836,Alexandria,weight,95.56,lb,
+14,Caban Of Rice,Ternate,weight,100.3333,lb,
+17,Cariolla _ Salt,Santa Maura,weight,104.13,lb,
+16,Cantaro Sottile,Genoa,weight,104.83,lb,
+16,Cantaro Piccole,Naples,weight,106.08,lb,
+19,Centenaar,Amsterdam,weight,108.94,lb,
+17,Cantaro,Tunis,weight,109.1547,lb,
+19,Centner,Copenhagen,weight,110.11,lb,
+19,Centner,Norway,weight,110.11,lb,
+19,Centner,Darmstadt,weight,110.23685,lb,
+19,Centner,Zoll-Verein,weight,110.23685,lb,
+16,Cantaro,Tripoli In Africa,weight,111.20954,lb,
+16,Cantaro,Florence,weight,112.3,lb,
+16,Cantaro,Leghorn,weight,112.3,lb,
+19,Centner,Nurnberg,weight,112.4321,lb,
+19,Centner,Prussia,weight,113.44,lb,
+19,Centner Actual Measure,Breslau,weight,113.44,lb,
+16,Cantaro Grosso,Genoa,weight,115.31,lb,
+16,Cantaro,Patras,weight,116.31,lb,
+16,Cantaro,Candia,weight,116.57,lb,
+19,Centner,Brunswic,weight,117.4884,lb,
+16,Cantaro,Morocco,weight,118.66,lb,
+16,Cantaro,Ionian Isles,weight,118.8,lb,
+16,Cantaro Before 1836,Alexandria,weight,119.05,lb,
+19,Centner Old Measure,Breslau,weight,119.072791,lb,
+16,Cantaro,Rome,weight,119.6096,lb,
+19,Centner,Lubec,weight,119.699328,lb,
+16,Cantaro,Leghorn,weight,119.78,lb,
+16,Cantaro _ Wool,Florence,weight,119.78,lb,
+17,Carara,Leghorn,weight,119.78,lb,
+16,Cantaro Minimum,Algiers,weight,120.4,lb,
+19,Centner,Vienna,weight,123.46771,lb,
+16,Cantaro,Morea,weight,123.71,lb,
+16,Cantaro,Smyra,weight,127.48,lb,
+19,Centner,Bremen,weight,127.49096,lb,
+14,Caban Of Rice,Manilla,weight,133,lb,
+19,Centner,Warsaw,weight,133.302857,lb,
+19,Centner,Prague,weight,136.08,lb,
+19,Centner Old Measure,Bohemia,weight,136.11,lb,
+24,Cuttra,Bassora,weight,136.5,lb,
+16,Cantaro,Constantinople,weight,140.30084,lb,
+19,Centner,Cracow,weight,142.83168,lb,
+4,Artaba,Ancient Arabs,weight,145.5,lb,
+16,Cantaro,Greece,weight,148.34,lb,
+16,Cantaro Mean Of 5,Algiers,weight,153.752,lb,
+16,Cantaro Zurlo,Aleppo,weight,154.47054,lb,
+16,Cantaro Sottile,Malta,weight,174.5047,lb,
+16,Cantaro Sottile,Palermo,weight,175.04,lb,
+21,Cola,Aleppo,weight,177.2498,lb,
+17,Carga _ Raisins,Malaga,weight,177.5,lb,
+6,Bahar,Jidda,weight,183.007813,lb,
+16,Cantaro,Rome,weight,186.89,lb,
+16,Cantaro Grosso,Malta,weight,191.97,lb,
+16,Cantaro Grosso,Palermo,weight,192.55688,lb,
+7,Barrel _ Flour,Maryland,weight,196,lb,
+16,Cantaro Grosso,Naples,weight,196.450454,lb,
+16,Cantaro Maximum,Algiers,weight,199.87,lb,
+7,Barrel _ Fish,Maryland,weight,220,lb,
+19,Centinajo Since 1803,Milan,weight,220.4737,lb,
+16,Cantaro _ Flax,Algiers,weight,240.8,lb,
+17,Carica,Venice,weight,266.35424,lb,
+17,Carga,Balearic Isles,weight,275.18,lb,
+17,Carga,Alicant,weight,282.57,lb,
+6,Bale _ Coffee,Bet-El-Faki,weight,285.5,lb,
+7,Barrel _ Lime,Maryland,weight,320,lb,
+20,Charge,France,weight,323.7657,lb,
+17,Carga,Aragon,weight,333.18,lb,
+17,Carga,Valencia,weight,338.44,lb,
+15,Candy,Surat,weight,340.16,lb,
+8,Berkowitz,St. Peterburg,weight,360.6764,lb,
+6,Bale _ Cotton,South Carolina,weight,362.5,lb,
+8,Berkowitz,Riga,weight,368.676121,lb,
+6,Bale _ Cotton,Georgia,weight,375,lb,
+16,Cantaro,Damascus,weight,395.48,lb,
+6,Bahar,Bantam,weight,396,lb,
+6,Bahar,Malacca,weight,405,lb,
+6,Bahar _ Pepper,Bantam,weight,406.7775,lb,
+8,Berkowitz,Narva,weight,412.758814,lb,
+20,Charge,Antwerp,weight,414.666,lb,
+14,Candil,Sumatra,weight,423.43,lb,
+6,Bahar,Mocha,weight,450,lb,
+17,Cantaro,Tripoli In Syria,weight,480.69,lb,
+15,Candy Legal,Bangalore,weight,483.02,lb,
+7,Baruay,Mysore,weight,485.485114,lb,
+15,Candy,Mysore,weight,485.485714,lb,
+15,Candy,Seringapatam,weight,485.49,lb,
+6,Bahar,Goa,weight,495,lb,
+7,Baruay,Madras,weight,499.97136,lb,
+15,Candy,Madras,weight,499.97136,lb,
+6,Bahar English,Ceylon,weight,500,lb,
+6,Bale _ Cotton,Alabama,weight,500,lb,
+6,Bale _ Cotton,Louisiana,weight,500,lb,
+6,Bale _ Cotton,Mississippi,weight,500,lb,
+15,Candy Ordinary,Bangalore,weight,500,lb,
+15,Candy Since English Rule,Ceylon,weight,500,lb,
+15,Candy _ Pepper,Travancore,weight,500.54,lb,
+16,Cantaro,Aleppo,weight,506.428,lb,
+15,Candy Old Measure,Ceylon,weight,520.67,lb,
+6,Bahar Dutch,Ceylon,weight,520.6752,lb,
+15,Candy,Bombay,weight,559.968,lb,
+15,Candy,Pondichery,weight,588.0386,lb,
+6,Bahar,Amboyna,weight,597.607,lb,
+6,Bahar Great,Batavia,weight,610.16625,lb,
+15,Candy,Malabar,weight,695.54,lb,
+16,Cantaro,Rome,weight,747.56,lb,
+6,Bahar Great,Bet-El-Faki,weight,815.625,lb,
+8,Bhaur,Surat,weight,900,lb,
+15,Candy,Ahmednuggur,weight,1577.14,lb,
+17,Carrata _ Marble,Carrara,weight,2240,lb,
+20,Chaldron _ Coal,London,weight,3063.742,lb,
+20,Chaldron _ Coal,Newcastle,weight,5936,lb,
+26,Doit,England,weight (metals),0.002,gr,
+26,Doli,Russia,weight (metals),0.09,gr,
+19,Centigramme,France,weight (metals),0.15,gr,
+3,Anna _ Pearls,Bombay,weight (metals),0.19,gr,
+20,Chawl _ Gold Silver,Malwah,weight (metals),0.25,gr,
+26,Dhan _ Gold & Silver,Calcutta,weight (metals),0.56,gr,
+1,Accino,Naples,weight (metals),0.66,gr,
+4,As Or Ass,Amsterdam,weight (metals),0.74,gr,
+5,As Or Ass,Stockholm,weight (metals),0.74,gr,
+4,As Or Ass,Baden,weight (metals),0.77,gr,
+5,As Or Ass,Zurich,weight (metals),0.83,gr,
+32,Esche,Cologne,weight (metals),0.83,gr,
+21,Coccio,Sicily,weight (metals),0.85,gr,
+5,As Or Es,Copenhagen,weight (metals),0.89,gr,
+32,Es,Copenhagen,weight (metals),0.89,gr,
+5,As Or Ass,Cologne,weight (metals),0.9,gr,
+20,Chalcos,Ancient Greeks,weight (metals),1.4,gr,
+26,Deusken,Amsterdam,weight (metals),1.48,gr,
+25,Decigramme,France,weight (metals),1.54,gr,
+22,Coondee _ Gold & Silver,Sumatra,weight (metals),1.77,gr,
+22,Copang,Sumatra,weight (metals),2.32,gr,
+17,Carato Peso Sottile,Venice,weight (metals),2.7,gr,
+26,Dichalcos,Ancient Greeks,weight (metals),2.81,gr,
+1,Abas _ Pearls,Persia,weight (metals),2.88,gr,
+17,Carato,Bologna,weight (metals),2.91,gr,
+23,Crat,Mocha,weight (metals),3,gr,
+17,Carato,Florence,weight (metals),3.03,gr,
+17,Caracter Apothecary,Spain,weight (metals),3.09,gr,
+17,Carat Diamonds,London,weight (metals),3.17,gr,
+17,Carat Precious Stones,France,weight (metals),3.18,gr,
+17,Carato Precious Stones,Ragusa,weight (metals),3.19,gr,
+17,Carat,United States,weight (metals),3.2,gr,
+17,Carat Pearls,London,weight (metals),3.2,gr,
+17,Carat Precious Stones,Madras,weight (metals),3.2,gr,
+17,Carato Precious Stones,Venice,weight (metals),3.2,gr,
+17,Carato,Turin,weight (metals),3.3,gr,
+21,Clam,Siam,weight (metals),3.53,gr,
+13,Busuck Gold,Borneo,weight (metals),4.8,gr,
+21,Condorine,Japan,weight (metals),5.72,gr,
+21,Chunam,Masulipatan,weight (metals),5.97,gr,
+24,Danik,Arabia,weight (metals),7.86,gr,
+32,Escropulo _ Precious Stones,Portugal,weight (metals),9.53,gr,
+22,Copang,Borneo,weight (metals),9.6,gr,
+26,Dirhem,Tauris,weight (metals),11.81,gr,
+24,Dang _ Gold & Silver,Persia,weight (metals),11.96,gr,
+25,Denar,Breslau,weight (metals),12.33,gr,
+3,Anna _ Gold & Silver,Calcutta,weight (metals),14.04,gr,
+25,Denaro Metrical Since 1803,Italy,weight (metals),15.43,gr,
+25,Denier Forbidden,France,weight (metals),15.43,gr,
+32,Esterlin ,Holland,weight (metals),15.43,gr,
+25,Denaro,Parma,weight (metals),17.49,gr,
+25,Denaro,Rome,weight (metals),18.17,gr,
+25,Denaro,Florence,weight (metals),18.19,gr,
+25,Denier ,Geneva,weight (metals),18.27,gr,
+32,Escropulo _ Gold,Oporto,weight (metals),18.45,gr,
+32,Escrupulo Apothecaries,Spain,weight (metals),18.51,gr,
+25,Denaro,Milan,weight (metals),18.9,gr,
+25,Denier,France,weight (metals),19.67,gr,
+25,Denaro,Turin,weight (metals),19.77,gr,
+25,Denaro,Lucca,weight (metals),19.94,gr,
+2,Akey,Guinea,weight (metals),20.03,gr,
+26,Diobolon,Ancient Greeks,weight (metals),22.46,gr,
+25,Denier Esterlin At 800,France,weight (metals),23.61,gr,
+32,Esterlin _ Gold Old Measure,France,weight (metals),23.61,gr,
+26,Dirhem,Shiraz,weight (metals),23.62,gr,
+32,Engel _ Gold Etc,Amsterdam,weight (metals),23.73,gr,
+32,Esterlin _ Gold Old Measure,Netherlands,weight (metals),23.74,gr,
+28,Dram,England,weight (metals),27.34,gr,
+2,Adarme,Canary Islands ,weight (metals),27.7,gr,
+2,Adarme,Castille,weight (metals),27.78,gr,
+3,Arienzo,Spain,weight (metals),27.78,gr,
+26,Dirhem,Abyssinia,weight (metals),40.13,gr,
+27,Drachme,Antwerp,weight (metals),45.34,gr,
+27,Drachma,Morea,weight (metals),46.26,gr,
+27,Drachma,Tripoli In Syria,weight (metals),46.73,gr,
+27,Drachma,Ionian Isles,weight (metals),47.25,gr,
+21,Coffala _ Gold & Silver,Mocha,weight (metals),48,gr,
+27,Drachma,Tripoli In Africa,weight (metals),48,gr,
+27,Drachma,Cairo,weight (metals),48.6,gr,
+27,Drachma,Hungary,weight (metals),48.62,gr,
+27,Dragma,Poland,weight (metals),48.9,gr,
+27,Drachma,Smyra,weight (metals),49.21,gr,
+28,Dramma,Turin,weight (metals),49.4,gr,
+26,Dirhem,Constantinople,weight (metals),49.5,gr,
+25,Denarius Imperial,Ancient Romans,weight (metals),52.64,gr,
+27,Drachma,Ancient Romans,weight (metals),52.64,gr,
+28,Ducal Of Gold,Germany,weight (metals),53.86,gr,
+28,Dramma,Rome,weight (metals),54.51,gr,
+28,Dramma,Florence,weight (metals),54.58,gr,
+27,Dracma,Madrid,weight (metals),55.57,gr,
+27,Drachma,Dresden,weight (metals),56.29,gr,
+27,Drachma,Aix La Chappelle,weight (metals),56.31,gr,
+27,Drachma,Cologne,weight (metals),56.35,gr,
+27,Drachma,Leipsic,weight (metals),56.36,gr,
+27,Drachma,Wurtemberg,weight (metals),56.36,gr,
+27,Drachma,Berlin,weight (metals),56.4,gr,
+27,Drachma Light,Frankfort,weight (metals),56.41,gr,
+27,Drachma Apothecaries,Berne,weight (metals),57.34,gr,
+27,Drachma Apothecaries,Berlin,weight (metals),57.47,gr,
+27,Drachma,Nurnberg,weight (metals),57.53,gr,
+27,Drachma Apothecaries,Germany,weight (metals),57.53,gr,
+27,Drachma Apothecaries,Frankfort,weight (metals),57.54,gr,
+27,Drachma,Hamburg,weight (metals),58.4,gr,
+27,Drachma,Lubec,weight (metals),58.45,gr,
+27,Drachma,Greece,weight (metals),59,gr,
+27,Drachma,Hanover,weight (metals),59.03,gr,
+27,Dragma,Amsterdam,weight (metals),59.32,gr,
+27,Dragma Commercial,Amsterdam,weight (metals),59.49,gr,
+27,Drachm Apothecaries,England,weight (metals),60,gr,
+27,Drachma,United States,weight (metals),60,gr,
+25,Denarius Republican,Ancient Romans,weight (metals),60.16,gr,
+27,Drakme,Copenhagen,weight (metals),60.2,gr,
+26,Dong,An-Nam,weight (metals),60.27,gr,
+27,Drachma,Frankfort,weight (metals),60.93,gr,
+27,Drachma,Mecklenburg,weight (metals),61.27,gr,
+2,Aguirages,Guinea,weight (metals),62.04,gr,
+27,Drachma,Berne,weight (metals),62.71,gr,
+27,Drachma,Ancient Attica,weight (metals),67.38,gr,
+27,Drachma,Vienna,weight (metals),67.69,gr,
+18,Castellano _ Gold,South America,weight (metals),71.07,gr,
+27,Drachma,Euboea,weight (metals),93.58,gr,
+27,Drachma,Ancient Aegina,weight (metals),112.3,gr,
+27,Drachma,Babylon,weight (metals),112.3,gr,
