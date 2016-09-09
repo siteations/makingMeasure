@@ -1,0 +1,274 @@
+/*
+
+styles for animation/interactive/structures
+
+*/
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.col1 {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom:0%;
+    margin-top:0%;
+    text-align: left;
+    padding-top: 50px;
+}
+.h_line {
+    width: 70%;
+    margin-left: 15%;
+    border-style: inset;
+    border-width: .5px;
+}
+.h1_line {
+    width: 60%;
+    margin-left: 20%;
+    border-style: inset;
+    border-width: .25px;
+    opacity: .25;
+}
+
+body,
+h6 {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+
+
+h1{
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 900;
+	letter-spacing: 5px;
+}
+
+a {
+    color:#339999;
+    text-decoration: none;
+
+}
+a:hover, 
+a:active {
+    color:#000000;
+    text-decoration: none;
+}
+
+.btns {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+h3 {
+	font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 900;
+	font-size: 1.25em;
+	letter-spacing: 1px;
+    text-align: center;
+}
+h5 {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: .6em;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+h4 {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: .6em;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #777;
+}
+
+p {
+	font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+    font-size: .7em;
+	letter-spacing: 0px;
+    text-indent: 50px;
+     line-height: 1.5;
+}
+
+.topnav {
+    font-size: 10px; 
+    max-height: 50px;
+}
+
+.lead {
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.intro-header {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: lowercase;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+    font-style: normal;
+    color: #339999;
+    font-size: 1.75em;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+    letter-spacing: 3px;
+    font-family: "Bitter";
+}
+
+.logo {
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    max-height: 75px;
+    padding: 10px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+.logo {
+}
+
+
+ol {
+    font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: .7em;
+    letter-spacing: 0px;
+     line-height: 1.5;
+}
+
+.caption {
+	font-family: "Bitter","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-size: 0.5em;
+	color: #777;
+}
