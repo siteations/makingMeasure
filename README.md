@@ -1,7 +1,7 @@
 # makingMeasure
 Data and d3 viz tools for an 1850s Dictionary of Measures (HTML, JS, d3.js)
 
-Making Measure turns visualizes instrumental abstractions, using d3 and basic DOM selection/manipulation for an alternate lens onto the evolving structures of metrology. Offering animations, excavations, and an anthropology (of sorts) it literally draws out the units in J.H. Alexander's Universal Dictionary of Weights and Measures (1850).
+Making Measure visualizes banal units of measure, using d3 and basic DOM selection/manipulation for an alternate lens onto the evolving structures of metrology in the 19th century. Offering animations, excavations, and an anthropology (of sorts) it literally draws out the units in J.H. Alexander's Universal Dictionary of Weights and Measures (1850).
 
 Collated at a moment of intense industrialization, urbanization, and globalization, Alexander's Dictionary is typical of 19th century quests to classify and compile. With over 5000 units ('antique and modern'), it catalogues measures by geography of use, materials handled, and imperial conversion. Its biggish data provides an interesting window onto:
 * commercial and cultural ambitions (ancient greek conversions),
